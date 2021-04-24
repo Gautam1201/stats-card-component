@@ -50,7 +50,7 @@ I also used the flexbox to position the stats component.
 ### What I learned
 
 I learned how to use grid and flexbox layout to position elements of stats preview card and also learned how to add color to the background image.
-**If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.**
+<!--If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.-->
 
 **Note: Delete this note and the content within this section and replace with your own learnings.**
 
