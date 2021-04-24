@@ -101,6 +101,7 @@ body{
     grid-row-end: 2;
     border-radius: 8px 0 0 8px;
     text-align: left;
+    grid-gap: 2rem;
   }
   .image-container, .purple-filter{
     border-radius: 0 8px 8px 0;
