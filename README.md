@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Stats preview card component](./images/Screenshot-preview-card.jpg)
+![Design preview for the Stats preview card component](./images/Screenshot.jpg)
 
 ### Links
 
