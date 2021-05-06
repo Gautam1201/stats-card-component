@@ -92,29 +92,46 @@ body{
     grid-template-rows: auto;
     min-width: 800px;
     max-width: 1000px;
+    min-height: 420px;
   }
 
   .content{
-    padding: 3rem 6rem;
+    padding: 3rem 4rem;
     justify-content: center;
     grid-row-start: 1;
     grid-row-end: 2;
     border-radius: 8px 0 0 8px;
     text-align: left;
-    grid-gap: 2rem;
+    grid-gap: 1rem;
   }
+
+  .content .highlights{
+    font-size: 32px;
+  }
+
+  .details{
+    font-size: 14px;
+  }
+
   .image-container, .purple-filter{
     border-radius: 0 8px 8px 0;
   }
+
   .stats{
     flex-direction: row;
     align-items: flex-end;
     justify-content: space-between;
   }
+
   .stats div{
     margin-top: 2rem;
   }
+
   .stats div .data{
     font-size: 20px;
+  }
+
+  .details, .stats{
+    padding-right: 2rem;
   }
 }
